@@ -22,8 +22,6 @@ author: Frank Ressat
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
     - Twint: "2024-10-30-twint"
   Author's home: "https://deanattali.com"
   About You:
