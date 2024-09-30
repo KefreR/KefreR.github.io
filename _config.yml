@@ -23,7 +23,7 @@ navbar-links:
   About Me: "aboutme"
   Resources:
     - Twint: "2024-10-30-twint"
-  Author's home: "https://deanattali.com"
+  # Author's home: "https://deanattali.com"
   About You:
 
 ################
