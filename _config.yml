@@ -22,9 +22,8 @@ author: Frank Ressat
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Twint: "2023-10-30-twint-test/"
+    - Twint: "2024-10-11-twint/"
   # Author's home: "https://deanattali.com"
-  About You:
 
 ################
 # --- Logo --- #
@@ -32,7 +31,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar_icon.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -50,17 +49,17 @@ round-avatar: true
 # You can change the order that they show up on the page by changing the order here.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: 
-  github: 
-  twitter: 
-  patreon: 
-  youtube: ""
-  whatsapp: 
+  email: "frank.ressat@outlook.com"
+#  rss: true  # remove this line if you don't want to show an RSS link at the bottom
+#  facebook: 
+  github: "https://github.com/KefreR"
+#  twitter: 
+#  patreon: 
+#  youtube: ""
+#  whatsapp: 
 #  medium: yourname
 #  reddit: yourname or r/yoursubreddit
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/frank-ressat-5b2379247/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,8 +92,8 @@ rss-description: This website is a virtual proof that I'm awesome
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
+  twitter: false
+  facebook: false
   linkedin: true
   vk: false
 
