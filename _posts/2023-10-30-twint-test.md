@@ -40,6 +40,7 @@ Data generated from these activities was then extracted using forensic tools:
 
 #### Example of Activities
 
+<img src="https://KefreR.github.io/assets/img/twint_transaction.png" alt="twint_transac" width="200"/>
 ![twint_transac](https://KefreR.github.io/assets/img/twint_transaction.png)
 ![twint_transac2](https://KefreR.github.io/assets/img/twint_transaction2.png)
 
