@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Case study: Forensic analysis of the Swiss instant payment application Twint
+title: Forensic analysis of the Swiss instant payment application Twint
 subtitle: Twint
 tags: [mobile forensics, phone app, case study]
 comments: true
